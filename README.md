@@ -4,6 +4,10 @@
 
 **[アプリを開く](https://grammar-studio-nasu.sunny-seed-0354.chatgpt.site/)**
 
+## 画面イメージ
+
+![B2 First対策「比較して理由を話す」の授業画面](docs/grammar-studio-b2-first.jpg)
+
 ## 機能
 
 - 全26単元・76問。中学8単元、高校10単元、B2 First対策8単元
